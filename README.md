@@ -10,6 +10,11 @@ I’m a technical writer focused on creating clear, structured, and user-friendl
 
 ## Featured Work
 
+### readme-radar
+https://github.com/samuelfatzinger/readme-radar
+
+CLI tool that finds GitHub repositories with weak or missing README files to identify documentation contribution opportunities.
+
 ### GoCarte Product Documentation
 https://github.com/samuelfatzinger/gocarte-product-documentation
 
@@ -31,3 +36,7 @@ Improving existing READMEs by restructuring content, clarifying onboarding steps
 
 - GitHub: [github.com/samuelfatzinger](https://github.com/samuelfatzinger)
 - LinkedIn: [linkedin.com/in/samuel-fatzinger-b581a92ba](https://linkedin.com/in/samuel-fatzinger-b581a92ba)
+
+## Blog
+
+- dev.to: [dev.to/samuelfatzinger](dev.to/samuelfatzinger)
