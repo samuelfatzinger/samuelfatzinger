@@ -1,12 +1,13 @@
 # Hi, I’m Samuel
 
-I’m a technical writer focused on creating clear, structured, and user-friendly documentation for software and digital products.
+I’m a technical writer focused on creating clear, structured, and user-friendly documentation for software and digital products, as well as a part-time python tinkerer working on a few tools and apps.
 
 ## What I’m Working On
 
 - Improving open-source documentation on GitHub
 - Building sample product documentation (GoCarte project)
 - Developing skills in UX writing and information architecture
+- Building small CLI tools to support documentation workflows (readme-radar)
 
 ## Featured Work
 
