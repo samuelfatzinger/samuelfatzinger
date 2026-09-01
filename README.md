@@ -41,3 +41,7 @@ Improving existing READMEs by restructuring content, clarifying onboarding steps
 ## Blog
 
 - dev.to: [dev.to/samuelfatzinger](dev.to/samuelfatzinger)
+
+## Website
+
+- [samuelfatzinger.com](https://www.samuelfatzinger.com)
